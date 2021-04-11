@@ -1,0 +1,26 @@
+﻿D:\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Exam6.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  basic_book.cpp
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(9,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(10,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(11,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(12,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(21,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(30,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(39,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(48,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(89,21): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(133,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(136,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(139,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(142,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\basic_book.cpp(145,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  general_book.cpp
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\general_book.cpp(13,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\general_book.cpp(43,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\main.cpp(44,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\main.cpp(54,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\main.cpp(361,34): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\main.cpp(363,20): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  正在生成代码...
+  Exam6.vcxproj -> D:\工程\图书管理系统\19190230张晨曦 图书管理系统\图书管理系统\Debug\图书管理系统.exe
